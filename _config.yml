@@ -18,12 +18,11 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Experience", file: "Experience.md"}
   - {title: "Projects", file: "Projects.md"}
-  - {title: "CV", file: "YizeXie_Resume.pdf", icon: home}
+  - {title: "CV", file: "YizeXie_Resume.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "yx2784@columbia.edu"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/yize-xie-54307421a/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
