@@ -5,6 +5,8 @@ output:
   html_document
 ---
 
+<br>
+
 **Columbia University - Mailman School of Public Health**  [*Expected May 2023*]{style="float:right"}
 
 ## Internships:
