@@ -3,7 +3,7 @@ layout: page
 title: "Experience"
 ---
 
-Education:
+## Internships:
+Nestlé – People Analytics Intern
 
-
-Internships:
+## Education:
