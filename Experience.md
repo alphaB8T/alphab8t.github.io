@@ -1,16 +1,11 @@
 ---
 layout: page
 title: "Experience"
-output: 
-  html_document
 ---
 
-<br>
-
-**Columbia University - Mailman School of Public Health**  [*Expected May 2023*]{style="float:right"}
-
 ## Internships:
-**Nestlé – People Analytics Intern**Jun 2023 – Dec 2023
+**Nestlé – People Analytics Intern**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2023 - Dec 2023
 - Built ETL pipelines and Power BI dashboards to monitor key people metrics and dive deep to understand drivers
 - Built BI system to produce weekly auto-updated reports for senior leaders to evaluate people performance and costs
 - Built a survival analysis model to measure the risk of attrition and losing key talents and help workforce planning
